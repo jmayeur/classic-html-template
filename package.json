@@ -1,0 +1,16 @@
+{
+  "name": "classic-html-template",
+  "version": "1.0.0",
+  "description": "A super simple, retro-style static HTML template for demos and learning.",
+  "license": "MIT",
+  "author": "",
+  "private": false,
+  "keywords": [
+    "html",
+    "static",
+    "template",
+    "retro",
+    "demo",
+    "css"
+  ]
+}
